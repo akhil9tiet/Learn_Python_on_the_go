@@ -1,1 +1,0 @@
-Delete all occurrences of a vowel in a sentence
